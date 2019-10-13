@@ -38,7 +38,7 @@
     "markdown-it": "^10.0.0",
     "moment": "^2.22.2",
     "no-kafka": "^3.2.10",
-    "node-gitlab-api": "^2.2.8",
+    "node-gitlab-api": "^3.0.2",
     "nodemailer": "^4.6.7",
     "tc-core-library-js": "appirio-tech/tc-core-library-js.git#v2.6.3",
     "topcoder-api-challenges": "^1.0.6",
